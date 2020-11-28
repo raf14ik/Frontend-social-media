@@ -1,0 +1,27 @@
+.left-menuBar {
+  display: flex;
+  align-items: center;
+}
+.right-menuBar {
+  display: flex;
+  align-items: center;
+}
+
+.page-title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 10px;
+  color: teal;
+}
+.form-container {
+  width: 400px;
+  margin: auto;
+}
+.postform {
+  padding-bottom: 20px;
+}
+.ui.teal.button:focus,
+.ui.teal.buttons .button:focus {
+  background-color: #00b5ad;
+}
